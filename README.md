@@ -2,7 +2,7 @@
 
 wmsxwd（我们所向往的）自2018年开始运营，主打高性价比，采用SS/Trojan协议，节点包含香港、台湾、日本和美国等地区，解锁了Netflix、Disney+、Ma x、Hulu、TVB、Happyon、AbemaTV 等多种流媒体平台。
 
-官网：https://go.dler.cc/dlercloud
+官网：https://go.dler.cc/wmsxwd
 
 ## 二、wmsxwd我们所向往的特点
 
@@ -25,3 +25,5 @@ wmsxwd（我们所向往的）自2018年开始运营，主打高性价比，采�
 ## 四、wmsxwd我们所向往跑路了？
 
 目前没有的，只是官网经常被封。
+
+官网地址：https://wmsxwd.info/
